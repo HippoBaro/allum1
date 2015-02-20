@@ -32,7 +32,7 @@
     * Les autres IA exécutent un jet de dès et suivant le résultat,
     exécutent soit une action parfaite, soit une action "random". A
     l'inverse de Doom, dans le cas d'un coup parfait, il n'y a pas de
-    selection, première déterminée, permière joué.
+    selection, première déterminée, première joué.
 
 # Note au lecteur :
 
