@@ -1,7 +1,7 @@
 # allum1
 {EPITECH} Multi-threaded Marienbad based Nim game. Humain vs IA ; IA vs IA ; Humain vs Humain.
 
-# L'essenciel
+# L'essentiel
     * Jeu des allumettes en mode texte, joli mais sans extra graphique.
     * IA Marienbad (tactique du XOR = 0).
     * IA qui implemente un algorithme pour calculer TOUS les
